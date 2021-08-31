@@ -1,3 +1,6 @@
+viky important
+
+
 ![](https://raw.githubusercontent.com/asatelit/pwa-pos-terminal/master/doc/images/preview.jpg)
 
 # Online Client Side POS Terminal
